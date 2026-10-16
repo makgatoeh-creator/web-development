@@ -1,6 +1,16 @@
 # Apex Bakery Website
 
 ## Project Overview
+## Student Information
+* Full Name: Elelwani Makgato
+* Student Number: ST10538946
+* Module: WEDE5020 (Web Development - POE Part 1)
+* Institution: Rosebank College
+
+## Website Goals and Objectives
+* Provide an online platform for Apex Bakery to showcase products and bakery services.
+* Allow customers to make online enquiries and request custom cake orders.
+* Help visitors easily locate physical store branches using an embedded Google Map.
 
 Apex Bakery is a multi-page website created for a local bakery business. The website provides information about the bakery, its products and services, and allows visitors to make enquiries or contact the bakery.
 
@@ -44,6 +54,22 @@ The home page introduces Apex Bakery and contains:
 * Short description of the bakery
 * Link to the Products and Services page
 * Reasons for choosing Apex Bakery
+## Timeline and Milestones
+* *Phase 1:* Planning, site map layout, and wireframing.
+* *Phase 2:* HTML5 core structure creation for all 5 web pages.
+* *Phase 3:* CSS styling, responsive menu navigation, and layout adjustments.
+* *Phase 4:* Part 1 submission and repository documentation.
+
+## Part 1 Details
+* This submission covers **Part 1** of the Portfolio of Evidence (POE). 
+* (Note: Part 2 and Part 3 features and enhancements will follow in future submissions/edits).
+
+## Sitemap
+* Home (`index.html`)
+* About Us (`about.html`)
+* Products & Services (`services.html`)
+* Custom Enquiry (`enquiry.html`)
+* Contact Us (`contact.html`)
 
 ### 2. About Us
 
@@ -234,3 +260,9 @@ The website uses a bakery-themed visual design with:
 * Hover effects on navigation links
 
 The navigation is also configured to wrap onto multiple lines when necessary, helping it accommodate smaller screen widths.
+## Changelog
+* **v1.0 (October 2026):** Completed initial HTML/CSS implementation and POE Part 1 documentation.
+
+## References
+* World Wide Web Consortium (W3C), 2023. *HTML5 Specification*. Available at: <https://www.w3.org/TR/html52/> [Accessed 16 October 2026].
+* MDN Web Docs, 2026. *CSS: Cascading Style Sheets*. Mozilla. Available at: <https://developer.mozilla.org/en-US/docs/Web/CSS> [Accessed 16 October 2026].
